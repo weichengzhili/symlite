@@ -1,0 +1,6 @@
+SPDX-License-Identifier: GPL-2.0-only
+
+bpf/ 目录下所有 BPF 程序源码适用 GNU General Public License v2.0 only。
+原因：BPF 程序使用 GPL-only 的内核 helper，必须声明 GPL 兼容许可证。
+
+完整文本见 https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt

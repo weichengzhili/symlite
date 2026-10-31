@@ -1,0 +1,7 @@
+SymLite
+Copyright 2025 SymLite Maintainers
+
+本产品包含由 SymLite 项目开发的软件。
+用户态代码（crates/、cmd/、tools/）以 Apache-2.0 许可。
+BPF 程序（bpf/）以 GPL-2.0-only 许可。
+第三方组件许可证汇总见 third_party/LICENSES/。
